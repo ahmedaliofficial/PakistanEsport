@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PakistanEsport/static/css/main.a617e044.chunk.css",
-    "main.js": "/PakistanEsport/static/js/main.b2bbfcaa.chunk.js",
-    "main.js.map": "/PakistanEsport/static/js/main.b2bbfcaa.chunk.js.map",
+    "main.js": "/PakistanEsport/static/js/main.66134c4d.chunk.js",
+    "main.js.map": "/PakistanEsport/static/js/main.66134c4d.chunk.js.map",
     "runtime-main.js": "/PakistanEsport/static/js/runtime-main.52c5614e.js",
     "runtime-main.js.map": "/PakistanEsport/static/js/runtime-main.52c5614e.js.map",
     "static/js/2.4aa37d67.chunk.js": "/PakistanEsport/static/js/2.4aa37d67.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.52c5614e.js",
     "static/js/2.4aa37d67.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.b2bbfcaa.chunk.js"
+    "static/js/main.66134c4d.chunk.js"
   ]
 }
